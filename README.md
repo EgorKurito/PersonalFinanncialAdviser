@@ -1,5 +1,7 @@
 # PersonalFinanncialAdviser
 
+![alt text](https://github.com/EgorKurito/PersonalFinanncialAdviser/blob/main/images.png?raw=true)
+
 In its classical version, personal finance analytics service represents
 a retrospective: the user can view the history of their expenses,
 grouped by category, and draw their own conclusions.
